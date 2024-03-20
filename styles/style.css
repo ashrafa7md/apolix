@@ -253,7 +253,6 @@ body {
   display: flex;
   margin-top: 5%;
   width: 100%;
-  margin-bottom: 5%;
 }
 @media (max-width: 768px) {
   .sec1_slider-button {
